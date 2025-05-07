@@ -113,7 +113,8 @@ printf("Decrypted message: %d\n", decrypted_message);
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/0e1d2e54-b13f-4ce7-83b7-6e1979ef1722)
+![image](https://github.com/user-attachments/assets/6ade22d3-e6a1-44ae-b2d3-1c7b633d6943)
+
 
 ## Result:
  The program is executed successfully.
